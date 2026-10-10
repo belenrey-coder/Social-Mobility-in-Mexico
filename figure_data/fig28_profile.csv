@@ -1,0 +1,41 @@
+metric,q,p
+Rural area,Poorest 20%,0.38880778083441514
+Rural area,Poorer 20%,0.2473793388284329
+Rural area,Middle 20%,0.17839226576095737
+Rural area,Richer 20%,0.11864206074132749
+Rural area,Richest 20%,0.07784620519436607
+Primary school or less,Poorest 20%,0.540017120883064
+Primary school or less,Poorer 20%,0.3470349346947615
+Primary school or less,Middle 20%,0.2533889260667673
+Primary school or less,Richer 20%,0.15266672736378387
+Primary school or less,Richest 20%,0.08493715410984326
+No bathroom inside,Poorest 20%,0.4003965098403864
+No bathroom inside,Poorer 20%,0.0943269671110193
+No bathroom inside,Middle 20%,0.02602728468345062
+No bathroom inside,Richer 20%,0.00915121891655729
+No bathroom inside,Richest 20%,0.0037684519719263657
+No piped water inside,Poorest 20%,0.29971482801780996
+No piped water inside,Poorer 20%,0.06652548632973572
+No piped water inside,Middle 20%,0.023126475056364643
+No piped water inside,Richer 20%,0.010649303534751155
+No piped water inside,Richest 20%,0.002885949805134214
+Dirt floor,Poorest 20%,0.10664228042909335
+Dirt floor,Poorer 20%,0.0075426615207158055
+Dirt floor,Middle 20%,0.0033352448259558643
+Dirt floor,Richer 20%,6.690928061313878e-4
+Dirt floor,Richest 20%,8.522454444616498e-4
+No refrigerator,Poorest 20%,0.31479333515618935
+No refrigerator,Poorer 20%,0.03836000116100502
+No refrigerator,Middle 20%,0.009778603046535557
+No refrigerator,Richer 20%,0.003135778905832387
+No refrigerator,Richest 20%,9.5792627287561e-4
+No refrigerator at age 14,Poorest 20%,0.6558124210450574
+No refrigerator at age 14,Poorer 20%,0.42038176895490414
+No refrigerator at age 14,Middle 20%,0.28802297433596524
+No refrigerator at age 14,Richer 20%,0.18279749806400516
+No refrigerator at age 14,Richest 20%,0.11918665675889929
+Overcrowded at age 14,Poorest 20%,0.7144821011611199
+Overcrowded at age 14,Poorer 20%,0.577493801380386
+Overcrowded at age 14,Middle 20%,0.4736871724683576
+Overcrowded at age 14,Richer 20%,0.3607947009362153
+Overcrowded at age 14,Richest 20%,0.25248242538110577

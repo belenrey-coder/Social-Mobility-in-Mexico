@@ -1,0 +1,17 @@
+parents,own,ownRank,share,n
+Primary or less,Primary or less,0,0.38939692946930077,9362
+Primary or less,Lower secondary,1,0.35303303459590324,9362
+Primary or less,Upper secondary,2,0.1575697453773871,9362
+Primary or less,College or more,3,0.10000029055740887,9362
+Lower secondary,Primary or less,0,0.09431577318468432,3627
+Lower secondary,Lower secondary,1,0.34050676546004144,3627
+Lower secondary,Upper secondary,2,0.32613505120971076,3627
+Lower secondary,College or more,3,0.23904241014556352,3627
+Upper secondary,Primary or less,0,0.051613572945361313,1940
+Upper secondary,Lower secondary,1,0.17883137526016965,1940
+Upper secondary,Upper secondary,2,0.33820368415607893,1940
+Upper secondary,College or more,3,0.4313513676383901,1940
+College or more,Primary or less,0,0.035875576324299,1375
+College or more,Lower secondary,1,0.11473713256230116,1375
+College or more,Upper secondary,2,0.22193598939046308,1375
+College or more,College or more,3,0.6274513017229367,1375

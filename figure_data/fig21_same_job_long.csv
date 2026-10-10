@@ -1,0 +1,13 @@
+cls,who,v
+Farm worker,Raised in the poorest 40%,23.454025125258262
+"Manual, low skill",Raised in the poorest 40%,33.19960694240885
+"Manual, high skill",Raised in the poorest 40%,31.613573393963076
+Commerce,Raised in the poorest 40%,35.57245182657411
+"Non-manual, low skill",Raised in the poorest 40%,47.4084607740194
+"Non-manual, high skill",Raised in the poorest 40%,57.64556998559877
+Farm worker,Raised in the richest 40%,49.11045501426965
+"Manual, low skill",Raised in the richest 40%,64.06275623574876
+"Manual, high skill",Raised in the richest 40%,64.95699499864413
+Commerce,Raised in the richest 40%,66.72794728002842
+"Non-manual, low skill",Raised in the richest 40%,74.7096049764642
+"Non-manual, high skill",Raised in the richest 40%,80.19688189584096

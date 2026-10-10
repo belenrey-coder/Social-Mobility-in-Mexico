@@ -1,0 +1,21 @@
+educ,o,orig,mean,n
+Primary or less,1,Poorest 20%,21.177477623562034,1309
+Primary or less,2,Poorer 20%,33.56996758207016,908
+Primary or less,3,Middle 20%,39.351510935099334,699
+Primary or less,4,Richer 20%,50.047760457070716,569
+Primary or less,5,Richest 20%,61.20978651464637,320
+Lower secondary,1,Poorest 20%,27.890137960564488,892
+Lower secondary,2,Poorer 20%,37.467685866468344,1153
+Lower secondary,3,Middle 20%,46.86519434632043,1324
+Lower secondary,4,Richer 20%,55.63979485218445,1125
+Lower secondary,5,Richest 20%,67.87628654607497,876
+Upper secondary,1,Poorest 20%,29.887306602727644,346
+Upper secondary,2,Poorer 20%,42.52177339060248,664
+Upper secondary,3,Middle 20%,55.69806569518591,1241
+Upper secondary,4,Richer 20%,63.367934888177,1629
+Upper secondary,5,Richest 20%,74.38820714038255,1491
+College or more,1,Poorest 20%,47.06192256451847,86
+College or more,2,Poorer 20%,54.20964134854189,244
+College or more,3,Middle 20%,62.02919305990601,517
+College or more,4,Richer 20%,70.2412833504586,768
+College or more,5,Richest 20%,82.46085494729357,1390
