@@ -1,9 +1,25 @@
-variable,pct,kind
-Father's education,18.89256290982458,Unknown or not reported
-Household income (amount),25.718769265258086,Unknown or not reported
-Mother's education,10.340189430028584,Unknown or not reported
-Respondent's education,1.6364961049150928,Unknown or not reported
-Region at age 14,0.3026396906349829,Unknown or not reported
-Mother's occupation,61.738496889536506,Not applicable (did not work for pay)
-Own occupation,33.15585944067701,Not applicable (does not work now)
-Own first job,49.35829176707953,Not applicable (never worked)
+label,period,pct,kind,order
+Household income,Home at age 14,,income,1
+Household income,Home today,25.718769265258086,income,1
+Any of the 31 items,Home at age 14,7.29,any,2
+Any of the 31 items,Home today,0.07,any,2
+Paid domestic worker,Home at age 14,0.39,item,12
+Toaster,Home at age 14,0.65,item,6
+Vacuum cleaner,Home at age 14,0.53,item,7
+Pay TV,Home at age 14,0.4,item,11
+Microwave,Home at age 14,0.43,item,9
+Internet,Home at age 14,0.52,item,8
+Motorbike,Home at age 14,0.42,item,10
+Owns another house,Home at age 14,1.32,item,4
+Owns a shop,Home at age 14,1.08,item,5
+Owns land,Home at age 14,1.43,item,3
+Paid domestic worker,Home today,0,item,12
+Toaster,Home today,0,item,6
+Vacuum cleaner,Home today,0,item,7
+Pay TV,Home today,0,item,11
+Microwave,Home today,0,item,9
+Internet,Home today,0,item,8
+Motorbike,Home today,0,item,10
+Owns another house,Home today,0,item,4
+Owns a shop,Home today,0,item,5
+Owns land,Home today,0,item,3
