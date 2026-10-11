@@ -1,0 +1,17 @@
+cohort,metric,value,n
+25-34,Born bottom 20%: stay in bottom 20%,60.63277,759
+25-34,Born bottom 20%: reach middle or above (Q3+),15.78503,759
+25-34,Born top 20%: stay in top 20%,53.94559,1302
+25-34,Born top 20%: fall to middle or below (Q3-),22.0547,1302
+35-44,Born bottom 20%: stay in bottom 20%,51.19182,727
+35-44,Born bottom 20%: reach middle or above (Q3+),19.58259,727
+35-44,Born top 20%: stay in top 20%,52.85436,1123
+35-44,Born top 20%: fall to middle or below (Q3-),19.15364,1123
+45-54,Born bottom 20%: stay in bottom 20%,44.50632,651
+45-54,Born bottom 20%: reach middle or above (Q3+),26.02526,651
+45-54,Born top 20%: stay in top 20%,51.61847,993
+45-54,Born top 20%: fall to middle or below (Q3-),22.92136,993
+55-64,Born bottom 20%: stay in bottom 20%,44.9976,548
+55-64,Born bottom 20%: reach middle or above (Q3+),25.8244,548
+55-64,Born top 20%: stay in top 20%,48.43115,726
+55-64,Born top 20%: fall to middle or below (Q3-),27.23674,726

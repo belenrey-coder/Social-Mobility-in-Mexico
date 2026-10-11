@@ -1,0 +1,13 @@
+sex,employment,origin,mean,se,n,lo,hi
+Men,Not employed,Bottom 40% at 14,18.30145,3.00181,326,12.41791,24.18499
+Women,Not employed,Bottom 40% at 14,8.37517,0.90384,1733,6.60365,10.1467
+Men,Employed,Bottom 40% at 14,13.96071,1.03448,1917,11.93313,15.98829
+Women,Employed,Bottom 40% at 14,10.70539,0.91222,1720,8.91745,12.49334
+Men,Not employed,Middle 20% at 14,0.23299,2.86587,232,-5.38412,5.85011
+Women,Not employed,Middle 20% at 14,-0.57104,1.65153,1115,-3.80804,2.66596
+Men,Employed,Middle 20% at 14,-0.08004,1.23773,1422,-2.50599,2.3459
+Women,Employed,Middle 20% at 14,-0.56668,1.48785,1038,-3.48285,2.3495
+Men,Not employed,Top 40% at 14,-12.56216,1.76205,579,-16.01578,-9.10854
+Women,Not employed,Top 40% at 14,-12.17084,0.84567,1873,-13.82835,-10.51333
+Men,Employed,Top 40% at 14,-10.91404,0.76365,3420,-12.41079,-9.41729
+Women,Employed,Top 40% at 14,-11.79709,1.0426,2468,-13.84058,-9.7536

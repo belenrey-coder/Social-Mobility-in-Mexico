@@ -1,0 +1,14 @@
+category,sample,population,variable
+Center,0.20137,0.38455,Region today
+North,0.20322,0.18794,Region today
+North-central,0.1975,0.13745,Region today
+Northwest,0.20013,0.06567,Region today
+South,0.19778,0.22438,Region today
+Rural,0.20266,0.20214,Locality today
+Urban,0.79734,0.79786,Locality today
+Men,0.44253,0.47573,Sex
+Women,0.55747,0.52427,Sex
+25-34,0.31362,0.32013,Age bracket
+35-44,0.27288,0.27573,Age bracket
+45-54,0.22468,0.23211,Age bracket
+55-64,0.18881,0.17203,Age bracket

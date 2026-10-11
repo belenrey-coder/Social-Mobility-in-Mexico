@@ -1,0 +1,11 @@
+locality,group,v,n
+Metropolis (>500k),Poorest fifth at 14,5.21001,2182
+Metropolis (>500k),Richest fifth at 14,34.15838,2182
+Large city (100-500k),Poorest fifth at 14,6.6043,3437
+Large city (100-500k),Richest fifth at 14,33.50756,3437
+Mid-size city (15-100k),Poorest fifth at 14,9.72973,3689
+Mid-size city (15-100k),Richest fifth at 14,26.23332,3689
+Small town (2.5-15k),Poorest fifth at 14,17.35719,3295
+Small town (2.5-15k),Richest fifth at 14,16.06407,3295
+Village (<2.5k),Poorest fifth at 14,39.3219,5240
+Village (<2.5k),Richest fifth at 14,6.79161,5240

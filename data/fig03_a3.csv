@@ -1,0 +1,129 @@
+item,label,group,cohort,share,used
+no_hacin,Not overcrowded,Housing,25-34,0.51948,True
+piso,Non-dirt floor,Housing,25-34,0.88903,True
+lote_propio,House alone on its lot,Housing,25-34,0.86506,True
+sala,Living/dining room,Housing,25-34,0.65872,True
+jardin,Garden,Housing,25-34,0.40639,True
+lavado,Laundry room,Housing,25-34,0.23426,True
+cuarto_tv,TV / study room,Housing,25-34,0.1925,True
+cochera,Garage or parking,Housing,25-34,0.36549,True
+cocina,Separate kitchen,Housing,25-34,0.78892,True
+agua,Piped water indoors,Services,25-34,0.81971,True
+elec,Electricity,Services,25-34,0.96173,True
+bano,Bathroom indoors,Services,25-34,0.76413,True
+boiler,Water heater,Services,25-34,0.47817,True
+domestico,Domestic worker,Services,25-34,0.06601,True
+estufa,Stove,Appliances,25-34,0.84684,True
+lavadora,Washing machine,Appliances,25-34,0.61206,True
+refri,Refrigerator,Appliances,25-34,0.81537,True
+microondas,Microwave,Appliances,25-34,0.30077,True
+aspiradora,Vacuum cleaner,Appliances,25-34,0.08578,True
+tostador,Toaster,Appliances,25-34,0.10908,True
+tv,Television,Technology,25-34,0.85553,True
+tv_paga,Pay TV / streaming,Technology,25-34,0.29259,True
+tel_fijo,Landline,Technology,25-34,0.40332,True
+celular,Mobile phone,Technology,25-34,0.43041,True
+compu,Computer or tablet,Technology,25-34,0.22787,True
+internet,Internet,Technology,25-34,0.24458,True
+auto,Car,Transport,25-34,0.43102,True
+moto,Motorcycle,Transport,25-34,0.10702,True
+bici,Bicycle,Transport,25-34,0.5011,True
+otra_viv,Another house or flat,Property,25-34,0.08805,True
+local,Commercial premises,Property,25-34,0.06225,True
+terreno,Land plot,Property,25-34,0.15499,True
+no_hacin,Not overcrowded,Housing,35-44,0.43665,True
+piso,Non-dirt floor,Housing,35-44,0.82812,True
+lote_propio,House alone on its lot,Housing,35-44,0.86602,True
+sala,Living/dining room,Housing,35-44,0.60651,True
+jardin,Garden,Housing,35-44,0.37879,True
+lavado,Laundry room,Housing,35-44,0.1995,True
+cuarto_tv,TV / study room,Housing,35-44,0.15331,True
+cochera,Garage or parking,Housing,35-44,0.30393,True
+cocina,Separate kitchen,Housing,35-44,0.73349,True
+agua,Piped water indoors,Services,35-44,0.75869,True
+elec,Electricity,Services,35-44,0.92439,True
+bano,Bathroom indoors,Services,35-44,0.64633,True
+boiler,Water heater,Services,35-44,0.42301,True
+domestico,Domestic worker,Services,35-44,0.07216,True
+estufa,Stove,Appliances,35-44,0.78941,True
+lavadora,Washing machine,Appliances,35-44,0.47128,True
+refri,Refrigerator,Appliances,35-44,0.70646,True
+microondas,Microwave,Appliances,35-44,0.14537,True
+aspiradora,Vacuum cleaner,Appliances,35-44,0.06835,True
+tostador,Toaster,Appliances,35-44,0.08638,True
+tv,Television,Technology,35-44,0.79625,True
+tv_paga,Pay TV / streaming,Technology,35-44,0.1571,True
+tel_fijo,Landline,Technology,35-44,0.31554,True
+celular,Mobile phone,Technology,35-44,0.15212,True
+compu,Computer or tablet,Technology,35-44,0.07803,True
+internet,Internet,Technology,35-44,0.06901,True
+auto,Car,Transport,35-44,0.35266,True
+moto,Motorcycle,Transport,35-44,0.06863,True
+bici,Bicycle,Transport,35-44,0.46406,True
+otra_viv,Another house or flat,Property,35-44,0.07068,True
+local,Commercial premises,Property,35-44,0.04922,True
+terreno,Land plot,Property,35-44,0.15137,True
+no_hacin,Not overcrowded,Housing,45-54,0.36246,True
+piso,Non-dirt floor,Housing,45-54,0.76276,True
+lote_propio,House alone on its lot,Housing,45-54,0.88694,True
+sala,Living/dining room,Housing,45-54,0.54177,True
+jardin,Garden,Housing,45-54,0.38387,True
+lavado,Laundry room,Housing,45-54,0.1713,True
+cuarto_tv,TV / study room,Housing,45-54,0.11935,True
+cochera,Garage or parking,Housing,45-54,0.2659,True
+cocina,Separate kitchen,Housing,45-54,0.69995,True
+agua,Piped water indoors,Services,45-54,0.69123,True
+elec,Electricity,Services,45-54,0.86492,True
+bano,Bathroom indoors,Services,45-54,0.5706,True
+boiler,Water heater,Services,45-54,0.32972,True
+domestico,Domestic worker,Services,45-54,0.05943,True
+estufa,Stove,Appliances,45-54,0.72412,True
+lavadora,Washing machine,Appliances,45-54,0.33877,True
+refri,Refrigerator,Appliances,45-54,0.58475,True
+microondas,Microwave,Appliances,45-54,0.07905,True
+aspiradora,Vacuum cleaner,Appliances,45-54,0.04791,True
+tostador,Toaster,Appliances,45-54,0.06454,True
+tv,Television,Technology,45-54,0.66388,True
+tv_paga,Pay TV / streaming,Technology,45-54,0.08001,True
+tel_fijo,Landline,Technology,45-54,0.22961,True
+celular,Mobile phone,Technology,45-54,0.06175,True
+compu,Computer or tablet,Technology,45-54,0.03714,True
+internet,Internet,Technology,45-54,0.03937,True
+auto,Car,Transport,45-54,0.27565,True
+moto,Motorcycle,Transport,45-54,0.04525,True
+bici,Bicycle,Transport,45-54,0.38573,True
+otra_viv,Another house or flat,Property,45-54,0.05782,True
+local,Commercial premises,Property,45-54,0.04661,True
+terreno,Land plot,Property,45-54,0.15183,True
+no_hacin,Not overcrowded,Housing,55-64,0.28291,True
+piso,Non-dirt floor,Housing,55-64,0.66616,True
+lote_propio,House alone on its lot,Housing,55-64,0.88324,True
+sala,Living/dining room,Housing,55-64,0.44665,True
+jardin,Garden,Housing,55-64,0.3269,True
+lavado,Laundry room,Housing,55-64,0.13119,True
+cuarto_tv,TV / study room,Housing,55-64,0.08889,True
+cochera,Garage or parking,Housing,55-64,0.21209,True
+cocina,Separate kitchen,Housing,55-64,0.65854,True
+agua,Piped water indoors,Services,55-64,0.53277,True
+elec,Electricity,Services,55-64,0.73885,True
+bano,Bathroom indoors,Services,55-64,0.44378,True
+boiler,Water heater,Services,55-64,0.24185,True
+domestico,Domestic worker,Services,55-64,0.04863,True
+estufa,Stove,Appliances,55-64,0.53864,True
+lavadora,Washing machine,Appliances,55-64,0.23105,True
+refri,Refrigerator,Appliances,55-64,0.43796,True
+microondas,Microwave,Appliances,55-64,0.03102,True
+aspiradora,Vacuum cleaner,Appliances,55-64,0.0298,True
+tostador,Toaster,Appliances,55-64,0.04363,True
+tv,Television,Technology,55-64,0.47549,True
+tv_paga,Pay TV / streaming,Technology,55-64,0.04823,True
+tel_fijo,Landline,Technology,55-64,0.16394,True
+celular,Mobile phone,Technology,55-64,0.02639,True
+compu,Computer or tablet,Technology,55-64,0.02136,True
+internet,Internet,Technology,55-64,0.0246,True
+auto,Car,Transport,55-64,0.21122,True
+moto,Motorcycle,Transport,55-64,0.04368,True
+bici,Bicycle,Transport,55-64,0.3617,True
+otra_viv,Another house or flat,Property,55-64,0.06224,True
+local,Commercial premises,Property,55-64,0.05146,True
+terreno,Land plot,Property,55-64,0.18385,True

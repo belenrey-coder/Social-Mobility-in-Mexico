@@ -1,0 +1,28 @@
+label,today,then,group
+Mobile phone,2.5,93.00225,Technology
+Separate kitchen,2.5,12.54038,Housing
+Electricity,2.5,6.5251,Services
+House alone on its lot,2.5,2.5,Housing
+Non-dirt floor,2.5,15.4358,Housing
+Piped water indoors,3.26198,21.60649,Services
+Stove,4.4482,20.02778,Appliances
+Television,4.55694,20.10081,Technology
+Refrigerator,4.92422,29.80486,Appliances
+Bathroom indoors,6.17781,35.48491,Services
+Not overcrowded,6.73804,59.9903,Housing
+Washing machine,14.61287,57.23417,Appliances
+Living/dining room,19.49061,40.41789,Housing
+Internet,25.25826,94.62277,Technology
+Water heater,30.33295,62.67687,Services
+Microwave,43.27674,90.21598,Appliances
+Pay TV / streaming,46.23868,90.6393,Technology
+Car,52.52617,72.07171,Transport
+Garage or parking,52.70375,72.05,Housing
+Computer or tablet,64.98789,94.41323,Technology
+Landline,66.85402,72.60003,Technology
+Garden,70.36733,73.22606,Housing
+Laundry room,78.93624,88.5317,Housing
+TV / study room,83.28365,93.32361,Housing
+Toaster,89.83852,94.9961,Appliances
+Vacuum cleaner,92.32073,96.00573,Appliances
+Domestic worker,96.52152,,Services
