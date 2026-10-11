@@ -1,0 +1,11 @@
+region,n_bottom,metric,value,mean_origin,label
+North,202,Stay in bottom 20%,25.41739,60.28446,North  (n = 202)
+North,202,Reach middle or above (Q3+),28.7907,60.28446,North  (n = 202)
+Northwest,259,Stay in bottom 20%,43.5091,54.80117,Northwest  (n = 259)
+Northwest,259,Reach middle or above (Q3+),26.21238,54.80117,Northwest  (n = 259)
+North-central,228,Stay in bottom 20%,30.15218,59.47748,North-central  (n = 228)
+North-central,228,Reach middle or above (Q3+),40.61434,59.47748,North-central  (n = 228)
+Center,630,Stay in bottom 20%,47.50932,50.08651,Center  (n = 630)
+Center,630,Reach middle or above (Q3+),25.54309,50.08651,Center  (n = 630)
+South,1362,Stay in bottom 20%,63.39659,35.56008,South  (n = 1362)
+South,1362,Reach middle or above (Q3+),12.89053,35.56008,South  (n = 1362)

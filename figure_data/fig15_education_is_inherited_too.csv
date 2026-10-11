@@ -1,0 +1,17 @@
+parents,own,n,pct,n_parents
+Primary or less,Primary or less,3014,38.93969,9362
+Primary or less,Secondary,3452,35.3033,9362
+Primary or less,High school,2103,15.75697,9362
+Primary or less,University+,793,10.00003,9362
+Secondary,Primary or less,226,9.43158,3627
+Secondary,Secondary,1087,34.05068,3627
+Secondary,High school,1677,32.61351,3627
+Secondary,University+,637,23.90424,3627
+High school,Primary or less,72,5.16136,1940
+High school,Secondary,304,17.88314,1940
+High school,High school,944,33.82037,1940
+High school,University+,620,43.13514,1940
+University+,Primary or less,35,3.58756,1375
+University+,Secondary,151,11.47371,1375
+University+,High school,398,22.1936,1375
+University+,University+,791,62.74513,1375

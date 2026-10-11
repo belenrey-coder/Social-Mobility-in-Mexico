@@ -1,0 +1,21 @@
+origin,trajectory,mean,se,n,lo,hi
+1,Town/city at 14 → rural today,12.43593,1.9003,212,8.71135,16.16051
+2,Town/city at 14 → rural today,4.40874,2.01601,278,0.45735,8.36012
+3,Town/city at 14 → rural today,-4.68246,1.8316,329,-8.27239,-1.09252
+4,Town/city at 14 → rural today,-12.56144,1.6156,296,-15.72802,-9.39486
+5,Town/city at 14 → rural today,-17.74172,1.72117,253,-21.11522,-14.36823
+1,Town/city at 14 → urban today,18.98013,1.35456,664,16.32518,21.63508
+2,Town/city at 14 → urban today,11.21297,1.40011,1411,8.46875,13.95719
+3,Town/city at 14 → urban today,1.81557,1.07742,2523,-0.29617,3.9273
+4,Town/city at 14 → urban today,-6.29502,0.75289,3264,-7.77068,-4.81936
+5,Town/city at 14 → urban today,-14.10611,0.85748,3373,-15.78678,-12.42545
+1,Village at 14 → rural today,9.11548,1.14393,965,6.87337,11.35758
+2,Village at 14 → rural today,-0.35017,1.50478,582,-3.29953,2.59919
+3,Village at 14 → rural today,-9.3853,1.76566,379,-12.84599,-5.92462
+4,Village at 14 → rural today,-17.7792,1.81471,205,-21.33604,-14.22236
+5,Village at 14 → rural today,-21.77405,2.8715,117,-27.4022,-16.14591
+1,Village at 14 → urban today,17.57308,1.62521,844,14.38766,20.7585
+2,Village at 14 → urban today,10.01441,1.89759,740,6.29514,13.73369
+3,Village at 14 → urban today,-1.09338,1.91487,576,-4.84652,2.65976
+4,Village at 14 → urban today,-13.67542,1.95813,431,-17.51335,-9.83749
+5,Village at 14 → urban today,-17.7209,1.89264,401,-21.43049,-14.01132

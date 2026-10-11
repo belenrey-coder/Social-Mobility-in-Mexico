@@ -1,0 +1,41 @@
+origin,education,destination,n,pct,n_group
+1,Primary or less,1,762,58.62219,1301
+1,Primary or less,2,313,26.20951,1301
+1,Primary or less,3,130,9.83401,1301
+1,Primary or less,4,74,4.10795,1301
+1,Primary or less,5,22,1.22633,1301
+1,Secondary,1,420,45.54319,900
+1,Secondary,2,255,30.31152,900
+1,Secondary,3,122,13.37465,900
+1,Secondary,4,71,7.30916,900
+1,Secondary,5,32,3.46148,900
+1,High school,1,140,42.716,355
+1,High school,2,103,25.82753,355
+1,High school,3,60,18.68082,355
+1,High school,4,33,10.31078,355
+1,High school,5,19,2.46488,355
+1,University+,1,15,17.46212,89
+1,University+,2,26,26.79788,89
+1,University+,3,19,25.35807,89
+1,University+,4,12,10.74844,89
+1,University+,5,17,19.63349,89
+5,Primary or less,1,25,5.16778,316
+5,Primary or less,2,43,17.36574,316
+5,Primary or less,3,76,24.33205,316
+5,Primary or less,4,84,24.04678,316
+5,Primary or less,5,88,29.08766,316
+5,Secondary,1,22,4.3463,873
+5,Secondary,2,89,10.0469,873
+5,Secondary,3,155,19.82438,873
+5,Secondary,4,265,27.58305,873
+5,Secondary,5,342,38.19937,873
+5,High school,1,22,2.27649,1491
+5,High school,2,64,5.38479,1491
+5,High school,3,207,14.41264,1491
+5,High school,4,500,30.1987,1491
+5,High school,5,698,47.72738,1491
+5,University+,1,5,0.20228,1391
+5,University+,2,33,3.56189,1391
+5,University+,3,120,7.22568,1391
+5,University+,4,343,21.39373,1391
+5,University+,5,890,67.61643,1391

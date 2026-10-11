@@ -1,0 +1,19 @@
+occupation,origin,mean,se,n,lo,hi,label
+Farm work,Bottom 40% at 14,22.80265,2.44311,494,18.01415,27.59115,Farm work (7% of workers)
+"Manual, low-skill",Bottom 40% at 14,33.06019,1.38741,1103,30.34086,35.77951,"Manual, low-skill (26% of workers)"
+"Manual, high-skill",Bottom 40% at 14,31.71439,1.34652,827,29.07521,34.35357,"Manual, high-skill (22% of workers)"
+Sales & commerce,Bottom 40% at 14,35.49893,1.51899,914,32.52172,38.47614,Sales & commerce (26% of workers)
+"Non-manual, low-skill",Bottom 40% at 14,48.60083,3.19938,195,42.33005,54.87161,"Non-manual, low-skill (11% of workers)"
+"Non-manual, high-skill",Bottom 40% at 14,57.0246,4.51867,78,48.16801,65.8812,"Non-manual, high-skill (8% of workers)"
+Farm work,Middle 20% at 14,42.97636,4.00185,106,35.13274,50.81997,Farm work (7% of workers)
+"Manual, low-skill",Middle 20% at 14,46.01271,1.57099,728,42.93357,49.09185,"Manual, low-skill (26% of workers)"
+"Manual, high-skill",Middle 20% at 14,47.10866,2.17313,526,42.84933,51.368,"Manual, high-skill (22% of workers)"
+Sales & commerce,Middle 20% at 14,51.14516,1.64297,673,47.92493,54.36539,Sales & commerce (26% of workers)
+"Non-manual, low-skill",Middle 20% at 14,56.47078,2.03893,278,52.47447,60.46708,"Non-manual, low-skill (11% of workers)"
+"Non-manual, high-skill",Middle 20% at 14,67.44372,4.21646,135,59.17946,75.70797,"Non-manual, high-skill (8% of workers)"
+Farm work,Top 40% at 14,49.45911,5.87069,79,37.95256,60.96567,Farm work (7% of workers)
+"Manual, low-skill",Top 40% at 14,64.02689,1.27715,1470,61.52367,66.5301,"Manual, low-skill (26% of workers)"
+"Manual, high-skill",Top 40% at 14,65.46344,1.30287,1014,62.90981,68.01707,"Manual, high-skill (22% of workers)"
+Sales & commerce,Top 40% at 14,67.13892,1.10018,1480,64.98256,69.29528,Sales & commerce (26% of workers)
+"Non-manual, low-skill",Top 40% at 14,75.07137,1.16729,1062,72.78349,77.35925,"Non-manual, low-skill (11% of workers)"
+"Non-manual, high-skill",Top 40% at 14,81.15355,1.21307,765,78.77593,83.53118,"Non-manual, high-skill (8% of workers)"

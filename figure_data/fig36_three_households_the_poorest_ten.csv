@@ -1,0 +1,79 @@
+band,share,moment,item,label
+Bottom 10%,50.55053,Today,refri,Refrigerator
+Middle (40th-60th),99.02982,Today,refri,Refrigerator
+Top 10%,99.97768,Today,refri,Refrigerator
+Bottom 10%,4.24763,At age 14,refri,Refrigerator
+Middle (40th-60th),78.36756,At age 14,refri,Refrigerator
+Top 10%,99.82726,At age 14,refri,Refrigerator
+Bottom 10%,54.33691,Today,estufa,Stove
+Middle (40th-60th),98.13769,Today,estufa,Stove
+Top 10%,99.84471,Today,estufa,Stove
+Bottom 10%,6.67734,At age 14,estufa,Stove
+Middle (40th-60th),89.34105,At age 14,estufa,Stove
+Top 10%,99.7112,At age 14,estufa,Stove
+Bottom 10%,72.37738,Today,celular,Mobile phone
+Middle (40th-60th),95.66746,Today,celular,Mobile phone
+Top 10%,99.63645,Today,celular,Mobile phone
+Bottom 10%,0.67543,At age 14,celular,Mobile phone
+Middle (40th-60th),14.98653,At age 14,celular,Mobile phone
+Top 10%,57.94877,At age 14,celular,Mobile phone
+Bottom 10%,51.85809,Today,tv,Television
+Middle (40th-60th),92.36367,Today,tv,Television
+Top 10%,99.95167,Today,tv,Television
+Bottom 10%,11.94155,At age 14,tv,Television
+Middle (40th-60th),81.94893,At age 14,tv,Television
+Top 10%,99.5987,At age 14,tv,Television
+Bottom 10%,22.6354,Today,lavadora,Washing machine
+Middle (40th-60th),92.86792,Today,lavadora,Washing machine
+Top 10%,99.87706,Today,lavadora,Washing machine
+Bottom 10%,0.64721,At age 14,lavadora,Washing machine
+Middle (40th-60th),42.02456,At age 14,lavadora,Washing machine
+Top 10%,96.16866,At age 14,lavadora,Washing machine
+Bottom 10%,57.46014,Today,agua,Piped water indoors
+Middle (40th-60th),97.47422,Today,agua,Piped water indoors
+Top 10%,99.91269,Today,agua,Piped water indoors
+Bottom 10%,11.72445,At age 14,agua,Piped water indoors
+Middle (40th-60th),83.78773,At age 14,agua,Piped water indoors
+Top 10%,98.65072,At age 14,agua,Piped water indoors
+Bottom 10%,44.54872,Today,bano,Bathroom indoors
+Middle (40th-60th),97.43777,Today,bano,Bathroom indoors
+Top 10%,99.82695,Today,bano,Bathroom indoors
+Bottom 10%,7.72949,At age 14,bano,Bathroom indoors
+Middle (40th-60th),74.1909,At age 14,bano,Bathroom indoors
+Top 10%,98.36291,At age 14,bano,Bathroom indoors
+Bottom 10%,8.77555,Today,boiler,Water heater
+Middle (40th-60th),69.97643,Today,boiler,Water heater
+Top 10%,98.71665,Today,boiler,Water heater
+Bottom 10%,0.39293,At age 14,boiler,Water heater
+Middle (40th-60th),32.60097,At age 14,boiler,Water heater
+Top 10%,93.64125,At age 14,boiler,Water heater
+Bottom 10%,12.81693,Today,internet,Internet
+Middle (40th-60th),82.28576,Today,internet,Internet
+Top 10%,99.31757,Today,internet,Internet
+Bottom 10%,0.20696,At age 14,internet,Internet
+Middle (40th-60th),3.91079,At age 14,internet,Internet
+Top 10%,52.1791,At age 14,internet,Internet
+Bottom 10%,3.52017,Today,compu,Computer or tablet
+Middle (40th-60th),33.03693,Today,compu,Computer or tablet
+Top 10%,95.83447,Today,compu,Computer or tablet
+Bottom 10%,0,At age 14,compu,Computer or tablet
+Middle (40th-60th),2.80622,At age 14,compu,Computer or tablet
+Top 10%,53.621,At age 14,compu,Computer or tablet
+Bottom 10%,7.20716,Today,auto,Car
+Middle (40th-60th),48.45939,Today,auto,Car
+Top 10%,93.57123,Today,auto,Car
+Bottom 10%,0.92954,At age 14,auto,Car
+Middle (40th-60th),25.81775,At age 14,auto,Car
+Top 10%,86.85385,At age 14,auto,Car
+Bottom 10%,1.50906,Today,domestico,Domestic worker
+Middle (40th-60th),4.04081,Today,domestico,Domestic worker
+Top 10%,39.1711,Today,domestico,Domestic worker
+Bottom 10%,0.0139,At age 14,domestico,Domestic worker
+Middle (40th-60th),3.1267,At age 14,domestico,Domestic worker
+Top 10%,35.17999,At age 14,domestico,Domestic worker
+Bottom 10%,1.58998,Today,otra_viv,Another house or flat
+Middle (40th-60th),6.61329,Today,otra_viv,Another house or flat
+Top 10%,26.80475,Today,otra_viv,Another house or flat
+Bottom 10%,0.70771,At age 14,otra_viv,Another house or flat
+Middle (40th-60th),3.41723,At age 14,otra_viv,Another house or flat
+Top 10%,29.52138,At age 14,otra_viv,Another house or flat

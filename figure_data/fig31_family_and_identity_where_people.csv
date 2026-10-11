@@ -1,0 +1,17 @@
+level,idx14,idxnow,p_up,n,factor
+Darkest (A-D),44.10931,45.21707,32.48536,1521,Skin tone
+Lightest (I-K),57.35231,54.33115,21.40667,869,Skin tone
+Medium-dark (E-F),46.75187,47.81248,31.59604,6261,Skin tone
+Medium-light (G-H),52.62973,51.96346,29.75061,9192,Skin tone
+Does not,51.81001,51.62263,30.46053,16951,Indigenous language
+Speaks an indigenous language,23.96965,26.66439,27.95226,892,Indigenous language
+0-1 siblings,61.84468,58.72152,24.17,3997,Number of siblings
+2-3 siblings,56.03913,54.15967,27.74445,6973,Number of siblings
+4-5 siblings,43.64775,45.28518,33.48451,3184,Number of siblings
+6-8 siblings,36.84949,40.92948,37.34892,2123,Number of siblings
+9+ siblings,33.46379,38.2798,36.53515,1150,Number of siblings
+Both parents,51.0678,51.02667,29.79537,13549,Lived with at 14
+Father only,43.70721,45.98633,33.11318,578,Lived with at 14
+Mother only,48.36207,49.75437,31.77989,2613,Lived with at 14
+Non-relatives,41.89873,29.32838,25.29639,211,Lived with at 14
+Other relatives,45.00652,43.89253,33.56097,892,Lived with at 14

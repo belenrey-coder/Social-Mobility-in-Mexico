@@ -1,0 +1,141 @@
+moment,item,label,group,bin,share
+Today,auto,Car,Transport,2.5,5.08461
+Today,auto,Car,Transport,7.5,9.33041
+Today,auto,Car,Transport,12.5,12.3303
+Today,auto,Car,Transport,17.5,17.63385
+Today,auto,Car,Transport,22.5,26.57279
+Today,auto,Car,Transport,27.5,30.66968
+Today,auto,Car,Transport,32.5,35.13367
+Today,auto,Car,Transport,37.5,40.05297
+Today,auto,Car,Transport,42.5,41.52077
+Today,auto,Car,Transport,47.5,40.0599
+Today,auto,Car,Transport,52.5,49.93518
+Today,auto,Car,Transport,57.5,62.32241
+Today,auto,Car,Transport,62.5,68.59109
+Today,auto,Car,Transport,67.5,68.64657
+Today,auto,Car,Transport,72.5,75.76369
+Today,auto,Car,Transport,77.5,83.35025
+Today,auto,Car,Transport,82.5,82.50424
+Today,auto,Car,Transport,87.5,82.88186
+Today,auto,Car,Transport,92.5,92.02325
+Today,auto,Car,Transport,97.5,95.13736
+Today,boiler,Water heater,Services,2.5,3.91386
+Today,boiler,Water heater,Services,7.5,13.63883
+Today,boiler,Water heater,Services,12.5,15.79545
+Today,boiler,Water heater,Services,17.5,24.08075
+Today,boiler,Water heater,Services,22.5,38.86584
+Today,boiler,Water heater,Services,27.5,43.21375
+Today,boiler,Water heater,Services,32.5,55.19109
+Today,boiler,Water heater,Services,37.5,56.96158
+Today,boiler,Water heater,Services,42.5,58.53944
+Today,boiler,Water heater,Services,47.5,69.57695
+Today,boiler,Water heater,Services,52.5,74.35278
+Today,boiler,Water heater,Services,57.5,77.43841
+Today,boiler,Water heater,Services,62.5,84.21479
+Today,boiler,Water heater,Services,67.5,87.50373
+Today,boiler,Water heater,Services,72.5,90.74679
+Today,boiler,Water heater,Services,77.5,94.74878
+Today,boiler,Water heater,Services,82.5,96.58705
+Today,boiler,Water heater,Services,87.5,95.73529
+Today,boiler,Water heater,Services,92.5,98.10063
+Today,boiler,Water heater,Services,97.5,99.3399
+Today,compu,Computer or tablet,Technology,2.5,2.89166
+Today,compu,Computer or tablet,Technology,7.5,4.14889
+Today,compu,Computer or tablet,Technology,12.5,1.77665
+Today,compu,Computer or tablet,Technology,17.5,9.20613
+Today,compu,Computer or tablet,Technology,22.5,7.44226
+Today,compu,Computer or tablet,Technology,27.5,14.09204
+Today,compu,Computer or tablet,Technology,32.5,16.97623
+Today,compu,Computer or tablet,Technology,37.5,26.3991
+Today,compu,Computer or tablet,Technology,42.5,25.73035
+Today,compu,Computer or tablet,Technology,47.5,34.99891
+Today,compu,Computer or tablet,Technology,52.5,30.8264
+Today,compu,Computer or tablet,Technology,57.5,40.58236
+Today,compu,Computer or tablet,Technology,62.5,47.90357
+Today,compu,Computer or tablet,Technology,67.5,52.11684
+Today,compu,Computer or tablet,Technology,72.5,57.56856
+Today,compu,Computer or tablet,Technology,77.5,68.42956
+Today,compu,Computer or tablet,Technology,82.5,76.05937
+Today,compu,Computer or tablet,Technology,87.5,84.17081
+Today,compu,Computer or tablet,Technology,92.5,92.95134
+Today,compu,Computer or tablet,Technology,97.5,98.7514
+Today,domestico,Domestic worker,Services,2.5,2.19847
+Today,domestico,Domestic worker,Services,7.5,0.81942
+Today,domestico,Domestic worker,Services,12.5,0.41611
+Today,domestico,Domestic worker,Services,17.5,0.41092
+Today,domestico,Domestic worker,Services,22.5,1.07376
+Today,domestico,Domestic worker,Services,27.5,2.66979
+Today,domestico,Domestic worker,Services,32.5,2.56274
+Today,domestico,Domestic worker,Services,37.5,1.81924
+Today,domestico,Domestic worker,Services,42.5,2.9146
+Today,domestico,Domestic worker,Services,47.5,4.29882
+Today,domestico,Domestic worker,Services,52.5,2.94483
+Today,domestico,Domestic worker,Services,57.5,6.00195
+Today,domestico,Domestic worker,Services,62.5,4.49647
+Today,domestico,Domestic worker,Services,67.5,8.22079
+Today,domestico,Domestic worker,Services,72.5,11.70661
+Today,domestico,Domestic worker,Services,77.5,10.33008
+Today,domestico,Domestic worker,Services,82.5,15.67824
+Today,domestico,Domestic worker,Services,87.5,20.22367
+Today,domestico,Domestic worker,Services,92.5,21.64965
+Today,domestico,Domestic worker,Services,97.5,56.89796
+Today,internet,Internet,Technology,2.5,7.66504
+Today,internet,Internet,Technology,7.5,17.97049
+Today,internet,Internet,Technology,12.5,19.12154
+Today,internet,Internet,Technology,17.5,37.42177
+Today,internet,Internet,Technology,22.5,40.74664
+Today,internet,Internet,Technology,27.5,57.52054
+Today,internet,Internet,Technology,32.5,57.61416
+Today,internet,Internet,Technology,37.5,68.34896
+Today,internet,Internet,Technology,42.5,72.35447
+Today,internet,Internet,Technology,47.5,79.86044
+Today,internet,Internet,Technology,52.5,88.38709
+Today,internet,Internet,Technology,57.5,88.54788
+Today,internet,Internet,Technology,62.5,93.00255
+Today,internet,Internet,Technology,67.5,90.91266
+Today,internet,Internet,Technology,72.5,95.13226
+Today,internet,Internet,Technology,77.5,96.75743
+Today,internet,Internet,Technology,82.5,97.82251
+Today,internet,Internet,Technology,87.5,98.70704
+Today,internet,Internet,Technology,92.5,98.68347
+Today,internet,Internet,Technology,97.5,99.95909
+Today,lavadora,Washing machine,Appliances,2.5,15.34265
+Today,lavadora,Washing machine,Appliances,7.5,29.93053
+Today,lavadora,Washing machine,Appliances,12.5,45.61069
+Today,lavadora,Washing machine,Appliances,17.5,55.99778
+Today,lavadora,Washing machine,Appliances,22.5,67.82026
+Today,lavadora,Washing machine,Appliances,27.5,80.95343
+Today,lavadora,Washing machine,Appliances,32.5,81.70868
+Today,lavadora,Washing machine,Appliances,37.5,84.76037
+Today,lavadora,Washing machine,Appliances,42.5,91.86439
+Today,lavadora,Washing machine,Appliances,47.5,90.49465
+Today,lavadora,Washing machine,Appliances,52.5,94.7191
+Today,lavadora,Washing machine,Appliances,57.5,94.39731
+Today,lavadora,Washing machine,Appliances,62.5,97.25953
+Today,lavadora,Washing machine,Appliances,67.5,97.03617
+Today,lavadora,Washing machine,Appliances,72.5,96.94588
+Today,lavadora,Washing machine,Appliances,77.5,98.75803
+Today,lavadora,Washing machine,Appliances,82.5,99.42828
+Today,lavadora,Washing machine,Appliances,87.5,99.46485
+Today,lavadora,Washing machine,Appliances,92.5,99.7724
+Today,lavadora,Washing machine,Appliances,97.5,99.98295
+Today,refri,Refrigerator,Appliances,2.5,32.29313
+Today,refri,Refrigerator,Appliances,7.5,68.81387
+Today,refri,Refrigerator,Appliances,12.5,82.80299
+Today,refri,Refrigerator,Appliances,17.5,89.74798
+Today,refri,Refrigerator,Appliances,22.5,92.17547
+Today,refri,Refrigerator,Appliances,27.5,95.57032
+Today,refri,Refrigerator,Appliances,32.5,98.81302
+Today,refri,Refrigerator,Appliances,37.5,98.53954
+Today,refri,Refrigerator,Appliances,42.5,97.86066
+Today,refri,Refrigerator,Appliances,47.5,98.94629
+Today,refri,Refrigerator,Appliances,52.5,99.62943
+Today,refri,Refrigerator,Appliances,57.5,99.68341
+Today,refri,Refrigerator,Appliances,62.5,99.69238
+Today,refri,Refrigerator,Appliances,67.5,99.8032
+Today,refri,Refrigerator,Appliances,72.5,99.89835
+Today,refri,Refrigerator,Appliances,77.5,99.34699
+Today,refri,Refrigerator,Appliances,82.5,99.90235
+Today,refri,Refrigerator,Appliances,87.5,99.75725
+Today,refri,Refrigerator,Appliances,92.5,99.95561
+Today,refri,Refrigerator,Appliances,97.5,100
