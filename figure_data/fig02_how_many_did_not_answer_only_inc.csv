@@ -1,7 +1,7 @@
 row,kind,pct,note,ord
 Household income today,Answered,74.281,"25.7%: 4,589 of 17,843 people",0
 Household income today,Did not answer,25.718999999999998,"25.7%: 4,589 of 17,843 people",1
-29 possessions questions today,Answered,100,"0%: yes/no only, no “don't know” option",0
-29 possessions questions today,Did not answer,0,"0%: yes/no only, no “don't know” option",1
-28 possessions questions at age 14,Answered,99.59967857142857,0.4% of all answers (worst question: 1.4%),0
-28 possessions questions at age 14,Did not answer,0.40032142857142844,0.4% of all answers (worst question: 1.4%),1
+Total of possessions questions today,Answered,100,"0%: yes/no only, no “don't know” option",0
+Total of possessions questions today,Did not answer,0,"0%: yes/no only, no “don't know” option",1
+Total of possessions questions at age 14,Answered,99.59967857142857,0.4% of all answers (worst question: 1.4%),0
+Total of possessions questions at age 14,Did not answer,0.40032142857142844,0.4% of all answers (worst question: 1.4%),1
