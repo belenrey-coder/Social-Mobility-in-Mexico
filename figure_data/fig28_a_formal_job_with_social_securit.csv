@@ -1,9 +1,9 @@
 origin,formal,mean,se,n,lo,hi
-1,Formal (job gives social security),38.48398,2.07269,300,34.42151,42.54646
-2,Formal (job gives social security),47.12252,1.7799,580,43.63391,50.61113
-3,Formal (job gives social security),56.55161,1.1576,1096,54.28271,58.82051
-4,Formal (job gives social security),68.60506,0.85843,1556,66.92253,70.28759
-5,Formal (job gives social security),79.41605,0.95886,1807,77.53668,81.29542
+1,Formal (social security),38.48398,2.07269,300,34.42151,42.54646
+2,Formal (social security),47.12252,1.7799,580,43.63391,50.61113
+3,Formal (social security),56.55161,1.1576,1096,54.28271,58.82051
+4,Formal (social security),68.60506,0.85843,1556,66.92253,70.28759
+5,Formal (social security),79.41605,0.95886,1807,77.53668,81.29542
 1,Informal (no social security),24.74897,1.05598,1378,22.67925,26.8187
 2,Informal (no social security),36.55102,1.30702,1353,33.98927,39.11278
 3,Informal (no social security),45.57828,1.31808,1350,42.99484,48.16172
